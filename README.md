@@ -1,10 +1,12 @@
 
 # Roselyn Coffee Shop Executive (Flutter Game)
 
+<img width="1435" height="564" alt="Screenshot 2025-10-18 at 17 26 52" src="https://github.com/user-attachments/assets/c1608d9b-ec1a-42e0-bfc7-fd0fdf352901" />
 
-[description_coding_exercise_4.tiff](https://github.com/user-attachments/files/22985636/description_coding_exercise_4.tiff)
+<img width="768" height="307" alt="Screenshot 2025-10-18 at 17 27 20" src="https://github.com/user-attachments/assets/d9eed314-1f35-49b0-887b-fcaf0c8c7ae7" />
 
-[description_coding_exercise_3.tiff](https://github.com/user-attachments/files/22985637/description_coding_exercise_3.tiff)
+**Sample Gameplay Diagram:**
+<img width="1186" height="1564" alt="image" src="https://github.com/user-attachments/assets/17bb08c6-814b-4847-a2b2-c8fab3c50ea7" />
 
 
 A **mobile gamebook** built with **Flutter** and **Dart**. You run a small coffee shop for 6 in‑game days, making decisions that affect your coins, beans inventory, customers, and ultimately whether you **win** (thriving business) or **lose** (closed shop).
